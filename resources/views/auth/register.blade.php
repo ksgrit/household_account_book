@@ -70,7 +70,11 @@
                         </div>
                     </form>
                 </div>
+                <div class="row mb-0">
+                    <div class="nav-b" style="text-align: center;">
                 <a class="btn btn-link" href="/login" >{{ __('Return to login screen') }}</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
