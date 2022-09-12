@@ -66,7 +66,11 @@
                         </div>
                     </form>
                 </div>
+                <div class="row mb-0">
+                    <div class="nav-b" style="text-align: center;">
                 <a class="btn btn-link" href="/register" >{{ __('New member registration here') }}</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
